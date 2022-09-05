@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MathonGo_Marks</string>
+
+    <string-array name="questions_type">
+        <item>Not attempted</item>
+        <item>Attempted</item>
+    </string-array>
+</resources>
